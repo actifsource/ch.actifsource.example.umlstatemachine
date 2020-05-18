@@ -1,11 +1,13 @@
-# ch.actifsource.example.umlstatemachine
-UML Built-In State Machine 
+# UML Statemachine
+In this project we will show how to use the built-in uml statemachine.
+
+![Uml Statemachine](images/umlstatemachine.png)
 
 
 ## Model Snippet Built-In
-Define the model snippet built-in
+Define the UML built-in
 
-![Model Snippet Built-In](images/modelsnippetbuiltin.png)
+![Uml Statemachine Built-In](images/umlbuiltin.png)
 
 ## Requirements
 Actifsource Workbench Enterprise Edition
